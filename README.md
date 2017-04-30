@@ -4,9 +4,9 @@
 
 **Contact**
 
-- Phone: 540.521.1086
-- Email: me@ianwillia.ms
-- Website: http://ianwillia.ms
+- Phone: [540.521.1086](tel:540-521-1086)
+- Email: [me@ianwillia.ms](mailto:me@ianwillia.ms)
+- Website: [ianwillia.ms](http://ianwillia.ms)
 - Everywhere Else: [@ian_dot_exe](https://www.google.com/search?q=%22ian_dot_exe%22%20ian%20williams)
 
 **Summary**
