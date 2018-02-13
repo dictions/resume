@@ -18,7 +18,7 @@ Frontend Development (HTML/CSS/JS), Frontend Systems Design and Architecture (st
 
 **Experience**
 
-- **MONO MONO — Partner**: 2016-Present - Experimental design and development shop alongside Garrett DeRossett. Taking on select clients in 2016.
+- **Alright Studio — Partner**: 2016-Present - Experimental design and development shop alongside Garrett DeRossett. Taking on select clients in 2016.
 - **Tiz — Product Designer & Frontend Developer**: 2016-2017 - Designed initial user experience for universal ordering platform. Worked on a three person engineering team to get from MVP to production ready product in three months
 - **Chute — Frontend Developer**: 2015-2016 - Built client-side applications for an array of Chute owned UGC products. Worked on projects for enterprise customers Coca Cola, CVS, Frito Lay, Wyndam, among others.
 - **Contract Work**: 2015-Present - Product design and fullstack development for a variety of companies including Appirio, Earnest, Ezra’s, Formlets, JDS Labs, Soundset Festival, among others.
