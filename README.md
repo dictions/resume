@@ -4,13 +4,13 @@
 
 **Contact**
 
-- Email: [ian@alright.studio](mailto:ian@alright.studio)
-- Website: [alright.studio](https://alright.studio)
+- Email: [ian@gardener.nyc](mailto:ian@gardener.nyc)
+- Website: [gardener.nyc](https://gardener.nyc)
 - Everywhere Else: [@ian_dot_exe](https://www.google.com/search?q=%22ian_dot_exe%22%20ian%20williams)
 
 **Summary**
 
-Hi there I’m Ian, a designer/developer based in Appalachia. Thus far, I have collaborated with companies and individuals in different capacities to solve complex challenges and meet business goals. My work is tailored, thoughtful, and kind. I don't believe in empty trends and like to solve for problems at their roots.
+Hi there I’m Ian, a technology consultant working in New York City. I focus on on building fast, reliable websites with modern technologies. 
 
 **Skillset**
 
@@ -18,7 +18,8 @@ Frontend Development (HTML/CSS/JS), Frontend Systems Design and Architecture (st
 
 **Experience**
 
-- **Alright Studio — Partner**: 2016-Present - Design and development shop alongside Garrett DeRossett and Hope DeRossett. Specializing in brand, product, and ecomm.
+- **Gardener NYC — Principal**: 2019-Present - Solo technology consulting for businesses, agencies, and others.
+- **Alright Studio — Partner**: 2016-2019 - Design and development shop alongside Garrett DeRossett and Hope DeRossett. Specializing in brand, product, and ecomm.
 - **Tiz — Product Designer & Frontend Developer**: 2016-2017 - Designed initial user experience for universal ordering platform. Worked on a three person engineering team to get from MVP to production ready product in three months
 - **Chute — Frontend Developer**: 2015-2016 - Built client-side applications for an array of Chute owned UGC products. Worked on projects for enterprise customers Coca Cola, CVS, Frito Lay, Wyndam, among others.
 - **Contract Work**: 2015-Present - Product design and fullstack development for a variety of companies including Appirio, Earnest, Ezra’s, Formlets, JDS Labs, Soundset Festival, among others.
